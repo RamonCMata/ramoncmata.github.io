@@ -3,7 +3,7 @@
 	CSC 196W
 	Week 2 Assignment:
 	Objective: Create a hmtl webpage based on a topic of our choice. Following the specifications indicated on canvas. I chose to create a webpage about Axolotls.-->
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <html>
   <head>
     <meta charset="utf-8">
